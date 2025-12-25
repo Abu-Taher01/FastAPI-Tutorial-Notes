@@ -2,7 +2,15 @@
 
 ---
 
-> _A beautifully formatted guide based on your original text file. All code and instructions are preserved and enhanced for clarity._
+> _A beautifully formatted guide based on my personal learning notes(for easy revision) from the FreeCodeCamp FastAPI tutorial.
+
+---
+
+## 📚 Course Information
+- **Source**: [FreeCodeCamp FastAPI Course](https://www.youtube.com/watch?v=0sOvCWBance) (15 hours)
+- **Coverage**: First 2 hours of the course
+- **Compiled by**: Your personal notes and learning experience while watching the video
+- **Note**: This guide includes personal insights(more focused) and problems faced during coding, along with the course content.
 
 ---
 
