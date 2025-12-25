@@ -1,4 +1,4 @@
-# 🚀 FastAPI Complete Tutorial Guide
+# 🚀 FastAPI Tutorial Notes
 
 <div align="center">
 
