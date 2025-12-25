@@ -1,4 +1,4 @@
-# FastAPI Advanced Topics & Course Continuation
+# FastAPI More detailed version of my notes
 
 ---
 
