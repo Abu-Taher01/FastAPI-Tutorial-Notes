@@ -2,7 +2,7 @@
 
 ---
 
-> _A beautifully formatted guide based on my personal learning notes(for easy revision) from the FreeCodeCamp FastAPI tutorial.
+> A beautifully formatted guide based on my personal learning notes(for easy revision) from the FreeCodeCamp FastAPI tutorial.
 
 ---
 
