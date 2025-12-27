@@ -18,7 +18,7 @@
 
 | Property | Details |
 |----------|---------|
-| **Source** | [FreeCodeCamp FastAPI Course](https://www.youtube.com/watch?v=0sOvCWBance) |
+| **Source** | [FreeCodeCamp FastAPI Course](https://www.youtube.com/watch?v=0sOvCWFmrtA) |
 | **Total Duration** | 15 hours |
 | **Current Coverage** | First 2 hours |
 | **Compiled By** | Personal Learning Notes |
