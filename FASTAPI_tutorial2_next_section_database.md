@@ -787,9 +787,7 @@ After completing this section, you're ready for:
 
 ---
 
-> 📝 **Note**: More content will be added as the course progresses. Share your additional notes and they will be appended to this document.
-
----
+> 📝 **Note**: More content will be added as the course progresses.
 
 <div align="center">
 
