@@ -1346,16 +1346,6 @@ After completing this section, you're ready for:
 **Course**: FreeCodeCamp FastAPI Tutorial (15 hours)  
 **Section**: 5 - Psycopg & CRUD Endpoints
 
----
-
-### ✨ *Keep Learning, Keep Building, Keep Growing!* ✨
-
----
-
-**Happy Coding! 🚀**
-
-</div>
-
 
 ### ✨ *Keep Learning, Keep Building, Keep Growing!* ✨
 
